@@ -1,5 +1,6 @@
 # HTML & CSS Learning Website
 
+
 A static educational website developed using **HTML5** and **CSS3** to strengthen core front-end development skills.  
 This project was built as a hands-on learning exercise, focusing on structure, styling, and proper project organization.
 
