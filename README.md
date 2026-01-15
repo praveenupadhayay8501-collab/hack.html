@@ -31,4 +31,7 @@ The purpose of this project is to practice building a complete website using onl
 - **CSS3** – for layout, styling, and design
 
 
+## Demo
+http://127.0.0.1:5500/index.html
+
 
