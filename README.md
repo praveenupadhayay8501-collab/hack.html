@@ -31,8 +31,10 @@ The purpose of this project is to practice building a complete website using onl
 - **HTML5** – for structure and content
 - **CSS3** – for layout, styling, and design
 
+Last updated: January 2026
+
 
 ## Demo
-http://127.0.0.1:5500/index.html
+ https://praveenupadhayay8501-collab.github.io/hack.html/
 
 
