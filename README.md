@@ -1,40 +1,79 @@
-# HTML & CSS Learning Website
+# Learn HTML & CSS — Beginner Web Development Project
 
+## Overview
+This project is a beginner-friendly educational website built using pure HTML and CSS.
+It helps new learners understand the basics of web development through a simple layout,
+clear navigation, and basic CSS animations.
 
-A static educational website developed using **HTML5** and **CSS3** to strengthen core front-end development skills.  
-This project was built as a hands-on learning exercise, focusing on structure, styling, and proper project organization.
+This project was created as part of my learning journey to practice frontend fundamentals
+and to ship a real, working website.
 
-⏱️ **Time spent:** 
+## Purpose
+- Learn HTML page structure
+- Practice CSS styling
+- Use one CSS file for multiple HTML pages
+- Understand CSS animations and hover effects
+- Gain experience deploying a website
 
-Approximately 9 hours
+## What This Website Includes
+- Home page introducing HTML and CSS
+- Navigation header with multiple pages
+- Animated text sections using CSS keyframes
+- Buttons linking to learning sections
+- Contact/help page
+- Consistent design using shared CSS
 
+## Technologies Used
+- HTML5
+- CSS3
 
-## 📖 Project Overview
+No frameworks or libraries were used. Everything is built from scratch.
 
-The purpose of this project is to practice building a complete website using only HTML and CSS, without relying on frameworks or libraries. It emphasizes clean code, organized files, and gradual improvement through experimentation.
+## Features
+- Beginner-friendly user interface
+- Simple and readable code
+- CSS animations and transitions
+- Hover effects on buttons
+- One CSS file shared across multiple HTML pages
+- Hosted using GitHub Pages
 
+## Live Demo
+https://praveenupadhayay8501-collab.github.io/hack.html/
 
+## Source Code
+GitHub Repository:
+https://github.com/praveenupadhayay8501-collab/hack.html
 
-## ✨ Features
+Raw README Link:
+https://raw.githubusercontent.com/praveenupadhayay8501-collab/hack.html/master/README.md
 
-- Clean and simple user interface
-- Well-structured HTML using semantic elements
-- Styled entirely with CSS
-- Multiple pages with proper navigation
-- Organized and scalable project structure
-- Fully static website (no JavaScript)
+## Time Spent
+Approximately 9 hours:
+- Planning the layout
+- Writing HTML structure
+- Styling and animations using CSS
+- Testing and fixing issues
+- Deploying the website
 
----
+## What I Learned
+- Proper use of HTML tags
+- CSS styling and layout techniques
+- Creating animations using CSS keyframes
+- Managing multiple pages with one CSS file
+- Hosting a project using GitHub Pages
+- Improving UI through practice
 
-## 🛠️ Technologies Used
+## Future Improvements
+- Add JavaScript for interactivity
+- Improve mobile responsiveness
+- Add quizzes or exercises
+- Add dark mode
+- Expand learning content
 
-- **HTML5** – for structure and content
-- **CSS3** – for layout, styling, and design
+## Project Status
+Completed.
+Open for future improvements and learning updates.
 
-Last updated: January 2026
-
-
-## Demo
- https://praveenupadhayay8501-collab.github.io/hack.html/
-
-
+## Final Note
+This project represents my progress in learning web development.
+It is intentionally kept simple, clean, and beginner-focused to make learning easier.
