@@ -48,7 +48,7 @@ Raw README Link:
 https://raw.githubusercontent.com/praveenupadhayay8501-collab/LearnWeb/refs/heads/master/README.md
 
 ## Time Spent
-Approximately 9 hours:
+Approximately 10 hours:
 - Planning the layout
 - Writing HTML structure
 - Styling and animations using CSS
