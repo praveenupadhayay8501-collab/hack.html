@@ -45,7 +45,7 @@ GitHub Repository:
 https://github.com/praveenupadhayay8501-collab/LearnWeb
 
 Raw README Link:
-https://raw.githubusercontent.com/praveenupadhayay8501-collab/hack.html/master/README.md
+https://raw.githubusercontent.com/praveenupadhayay8501-collab/LearnWeb/refs/heads/master/README.md
 
 ## Time Spent
 Approximately 9 hours:
