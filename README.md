@@ -38,11 +38,11 @@ No frameworks or libraries were used. Everything is built from scratch.
 - Hosted using GitHub Pages
 
 ## Live Demo
-https://praveenupadhayay8501-collab.github.io/hack.html/
+https://praveenupadhayay8501-collab.github.io/LearnWeb/
 
 ## Source Code
 GitHub Repository:
-https://github.com/praveenupadhayay8501-collab/hack.html
+https://github.com/praveenupadhayay8501-collab/LearnWeb
 
 Raw README Link:
 https://raw.githubusercontent.com/praveenupadhayay8501-collab/hack.html/master/README.md
